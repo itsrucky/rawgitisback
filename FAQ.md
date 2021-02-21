@@ -1,8 +1,8 @@
-# RawGit Frequently Asked Questions
+# RawGitIsBack Frequently Asked Questions
 
-## Who runs RawGit?
+## Who runs RawGitIsBack?
 
-Hi, I'm [Ryan Grove](http://wonko.com/).
+Hi, I'm [Connor](https://itsrucky.github.io).
 
 ## Why is this necessary? Can't I just load files from GitHub directly?
 
